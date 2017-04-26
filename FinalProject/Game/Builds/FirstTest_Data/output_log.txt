@@ -1,0 +1,110 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 530 (ID=0xde5)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
+Loading C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
+- Completed reload, in  0.211 seconds
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.718018 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.775975 ms
+Non platform assembly: data-0F056FB8 (this message is harmless)
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/data-0F056FB8.dll
+Non platform assembly: data-0F0690D8 (this message is harmless)
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/data-0F0690D8.dll
+Non platform assembly: data-0FBF0020 (this message is harmless)
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/data-0FBF0020.dll
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/steam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\steam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/steam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/libsteam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\libsteam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/libsteam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/steam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\steam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/steam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/libsteam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\libsteam_api
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/libsteam_api
+Rewired: Searching for compatible XInput library...
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/xinput1_4.dll
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\xinput1_4.dll
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/xinput1_4.dll
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/xinput1_4
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\xinput1_4
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/xinput1_4
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/.\libxinput1_4.dll
+Fallback handler could not load library C:/Users/carlos/Desktop/FinalProject/PlayerMovement/Builds/FirstTest_Data/Mono/libxinput1_4.dll
+Rewired: Found Xinput1_3.dll.
+Platform assembly: C:\Users\carlos\Desktop\FinalProject\PlayerMovement\Builds\FirstTest_Data\Managed\System.Xml.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at ButtonMapper.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ButtonMapper.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ButtonMapper.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ButtonMapper.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ButtonMapper.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ButtonMapper.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 10.173993 ms (FindLiveObjects: 0.087838 ms CreateObjectMapping: 0.156360 ms MarkObjects: 9.907197 ms  DeleteObjects: 0.022233 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.328516 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2574.
+Total: 9.490964 ms (FindLiveObjects: 0.113716 ms CreateObjectMapping: 0.104969 ms MarkObjects: 9.260981 ms  DeleteObjects: 0.010934 ms)
+
+Player did 2 to Blob
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Player did 2 to Blob
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 14d8 -> priority: 1 
